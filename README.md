@@ -40,5 +40,14 @@ https://geeks.ms/windowsplatform/2015/11/05/squasing-en-git/
 
 https://es.stackoverflow.com/questions/83624/cu%C3%A1l-es-la-diferencia-entre-git-rebase-y-git-merge
 
+Java Script
+
+Bibliography:
+
+https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+https://lenguajejs.com/javascript/
+
+
 
 
